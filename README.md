@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Dataset](#dataset)
-* [CNN Architecure](#cnn-architecture) 
+* [CNN Architecture](#cnn-architecture) 
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -31,7 +31,7 @@
  9. Vascular lesion
 
 
-## CNN Architecure
+## CNN Architecture
 - To classify skin cancer using skin lesions images. To achieve higher accuracy and results on the classification task, I have built custom CNN model.
   - Rescalling Layer - To rescale an input in the [0, 255] range to be in the [0, 1] range.
   - Convolutional Layer - Convolutional layers apply a convolution operation to the input, passing the result to the next layer. A convolution converts all the pixels in its receptive field into a single value. For example, if you would apply a convolution to an image, you will be decreasing the image size as well as bringing all the information in the field together into a single pixel.
