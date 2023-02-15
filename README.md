@@ -76,9 +76,9 @@
 
 |Model|Epochs|Comments|
 |:---|:---|:---|
-|Initial Model |20 |Model is Overfitting|
-|Model with Dropouts and Data Augmentation |20 |Training Accuracy getting low and Overfitting controlled|
-|Model with Class rebalance + Dropout |30 |Accuracy improved for both training and validation, no overfitting|
+|Model 1 |20 |Model is Overfitting|
+|Model 2 with Dropouts and Data Augmentation |20 |Training Accuracy getting low and Overfitting controlled|
+|Model 3 with Class rebalance + Dropout |30 |Accuracy improved for both training and validation, no overfitting|
 
 
 ## Acknowledgements
